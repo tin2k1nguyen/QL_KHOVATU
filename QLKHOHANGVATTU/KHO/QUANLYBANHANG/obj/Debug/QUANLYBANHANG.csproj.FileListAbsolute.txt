@@ -1,0 +1,859 @@
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csprojResolveAssemblyReference.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.frmMain.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.Properties.Resources.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.Cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe.licenses
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucPhanQuyen.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaNguoiDung.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe.config
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaVaiTro.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmDangNhap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe.config
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csprojResolveAssemblyReference.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmDangNhap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.frmMain.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaNguoiDung.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaVaiTro.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucPhanQuyen.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.Properties.Resources.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.Cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe.licenses
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\BACKUP DO AN QLBanHang\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe.config
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csprojResolveAssemblyReference.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmDangNhap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.frmMain.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaNguoiDung.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaVaiTro.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucHangHoa.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucPhanQuyen.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.Properties.Resources.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.Cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe.licenses
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\Microsoft.SqlServer.GridControl.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucBanHang2.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DemoData.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Tutorials.v17.1.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DemoData.v17.1.Core.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaKhachHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucMuaHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhoHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemSuaKhoHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucKhachHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhaCungCap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhaCungCap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemKhuVuc.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhuVuc.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemDonViTinh.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucDonViTinh.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhomHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhomHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemTyGia.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucTyGia.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemBoPhan.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucBoPhan.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhanVien.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhanVien.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmDoiMatKhau.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmSaoLuuDuLieu.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmPhucHoiDuLieu.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucTonKho.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\PagedList.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\PagedList.xml
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.Shared.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\stdole.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucChuyenKho.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThongTin.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucNhatKyHeThong.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBaoCaoKhoHang.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\FlashControlV71.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ShockwaveFlashObjects.dll
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmPRT.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuThu.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucThuTien.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBangKeThuTien.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucDSCongNo.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuChi.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucBangKePhieuChi.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucDSCongNoTra.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucTraTien.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\DO AN CUOI KY\GitHub\LTUDQL1-DACK\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabTroGiup.frmLienHe.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe.config
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.pdb
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\PagedList.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DemoData.v17.1.Core.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\stdole.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\PagedList.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csprojAssemblyReference.cache
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmDangNhap.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.frmMain.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuChi.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuThu.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmPRT.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBangKeThuTien.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucBangKePhieuChi.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucDSCongNoTra.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucTraTien.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBaoCaoKhoHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucChuyenKho.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucDSCongNo.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucMuaHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucThuTien.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucTonKho.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemBoPhan.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemDonViTinh.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemKhuVuc.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhaCungCap.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhanVien.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhomHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemSuaKhoHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaHangHoa.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaKhachHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemTyGia.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucBoPhan.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucDonViTinh.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucKhachHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhoHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhuVuc.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhaCungCap.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhanVien.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhomHang.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucTyGia.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmDoiMatKhau.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmPhucHoiDuLieu.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmSaoLuuDuLieu.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaNguoiDung.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaVaiTro.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucBanHang2.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucHangHoa.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucNhatKyHeThong.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucPhanQuyen.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabTroGiup.frmLienHe.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThongTin.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.Properties.Resources.resources
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.cache
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe.licenses
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CopyComplete
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe
+C:\Users\84962\Desktop\LTUDQL1-DACK-master\LTUDQL1-DACK-master\QUANLYBANHANG\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.pdb
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe.config
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.exe
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\QUANLYBANHANG.pdb
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\PagedList.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.DemoData.v17.1.Core.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\stdole.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\PagedList.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csprojAssemblyReference.cache
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmDangNhap.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.frmMain.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuChi.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmLapPhieuThu.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.frmPRT.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBangKeThuTien.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucBangKePhieuChi.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucDSCongNoTra.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.TraTien.ucTraTien.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucBaoCaoKhoHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucChuyenKho.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucDSCongNo.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucMuaHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucThuTien.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucTonKho.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemBoPhan.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemDonViTinh.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemKhuVuc.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhaCungCap.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhanVien.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemNhomHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemSuaKhoHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaHangHoa.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThemSuaKhachHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.frmThemTyGia.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucBoPhan.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucDonViTinh.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucKhachHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhoHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucKhuVuc.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhaCungCap.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhanVien.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucNhomHang.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabDanhMuc.ucTyGia.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmDoiMatKhau.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmPhucHoiDuLieu.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabHeThong.frmSaoLuuDuLieu.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaNguoiDung.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.HeThong.frmThemSuaVaiTro.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucBanHang2.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucHangHoa.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabChucNang.ucNhatKyHeThong.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.ucPhanQuyen.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.tabTroGiup.frmLienHe.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.GUI.frmThongTin.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.Properties.Resources.resources
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.cache
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe.licenses
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.csproj.CopyComplete
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.exe
+C:\Users\84962\Desktop\KHO\QUANLYBANHANG\obj\Debug\QUANLYBANHANG.pdb
